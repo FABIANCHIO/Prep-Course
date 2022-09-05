@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 h1 {
     color: orange;
@@ -23,3 +24,30 @@ img{
 
 }
 
+=======
+        
+        
+        h1 {
+            color: orange;
+            }
+
+        
+            img {
+            width: 400px;
+            }
+        
+        
+            #thirDiv {
+            height: 600px;
+            width: 500px;
+            background-color: black;
+            padding: 50px;
+            border: 9px solid green  ;            
+            }
+        
+        
+            #spanId {
+            font-size: 18px ;
+            margin: 50px;
+            }
+>>>>>>> c04df6b52239aa78d4218e357ad21b5736254f44
